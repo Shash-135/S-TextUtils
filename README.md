@@ -4,11 +4,7 @@ TextUtils is a simple and intuitive web application built with React that provid
 
 This project was built to practice and demonstrate fundamental concepts of React, including components, state management with `useState`, props, and event handling.
 
-## 📸 Screenshot
 
-![TextUtils Screenshot] << **(IMPORTANT: Add a screenshot of your web application here!)**
-
----
 
 ## 🚀 Features
 
