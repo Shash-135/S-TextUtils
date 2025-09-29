@@ -1,5 +1,5 @@
 {
-  "homepage":"https://Shash-135.github.io/S-TextUtils"
+  "homepage": "https://Shash-135.github.io/S-TextUtils",
   "name": "s-textutils",
   "version": "0.1.0",
   "private": true,
@@ -10,13 +10,13 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
